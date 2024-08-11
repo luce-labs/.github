@@ -1,5 +1,3 @@
 ### Luce Labs
 
 Torchbearers
-
-#### Projets
