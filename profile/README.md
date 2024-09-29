@@ -1,3 +1,5 @@
 ### Luce Labs
+welcome to luce labs, the innovation hub of luce industries
 
-Torchbearers
+luce labs is where our team of developers, engineers and creatives collaborate to build software.<br/>
+we build both open source and commercial software.
