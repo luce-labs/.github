@@ -1,4 +1,4 @@
 ### Luce Labs
 <p>we are either cracked devs or we are close</p>
 
-blending cutting-edge technology with creativity while we get
+blending cutting-edge technology with creativity
