@@ -3,4 +3,4 @@
 
 blending cutting-edge technology with creativity -->
 
-![Description of the GIF](https://i.gifer.com/1wb0.gif)
+<img src="https://i.gifer.com/1wb0.gif" width="800" height="500" alt="cooks">
