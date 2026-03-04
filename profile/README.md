@@ -1,5 +1,7 @@
-### Luce Labs
-<!-- 
-blending cutting-edge technology with creativity -->
+<img src="./lucelabslogo.svg" alt="Luce Labs logo" width="320">
 
-<img src="https://i.gifer.com/1wb0.gif" alt="cooks">
+building transformative technologies that empower businesses and give hope to everyone whose future depends on bold ideas
+
+---
+
+building [lucehr](https://lucehr.com), procusMeet
